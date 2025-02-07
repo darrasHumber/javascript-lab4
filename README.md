@@ -1,1 +1,1 @@
-# javascript-lab4
+# JavaScript Lab4
